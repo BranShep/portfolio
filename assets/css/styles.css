@@ -281,7 +281,7 @@ iframe {
 }
 /* Projects Section */
 .carousel-img {
-  width: 400px;
+  height: 100%;
 }
 
 .image-bar {
@@ -354,6 +354,11 @@ iframe {
 .ghfeed {
   height: 600px;
 }
+
+.modal-dialog {
+  height: 100%;
+}
+
 .ghfeed,
 .ghfeed *,
 .ghfeed *:before,
